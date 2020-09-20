@@ -1,0 +1,1 @@
+# Katalon-Studio-Some-Important-Settings-Preferences
